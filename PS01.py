@@ -36,7 +36,7 @@ def main():
         elif opcion == 'e':
             print("SALIENDO")
         else:
-            print("Ingrese otra opción válida por favor (otro número)")
+            print("Ingrese otra opción válida por favor ")
 
 if __name__ == "__main__":
     main()
